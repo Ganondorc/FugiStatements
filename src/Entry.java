@@ -12,6 +12,7 @@ public class Entry {
 	private String vendor = "";
 	private double amount = 0.0;
 	private String[] data;
+	
 	public Entry(Date date, String vendor, double amount) {
 		this.effectiveDate = date;
 		this.vendor = vendor;
