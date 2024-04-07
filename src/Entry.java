@@ -4,7 +4,7 @@ import java.util.Date;
 /*
  * Name: Michael Frake
  * Date: Oct 14, 2021
- * Description: 
+ * Description: a "line" of a pdf from ETPCU
  */
 
 public class Entry {
